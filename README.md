@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kevmorn
-- 👀 I’m interested in Java,C#,Python 
+- 👋 Hi, I’m Cristiano Duro Marques
+- 👀 I’m interested in Java,C#,
 - 🌱 I’m currently learning Java,C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Discord: Deathmind#9232  Skype :  Crismarxsxd
 Email: cristiano.duro97@gmail.com
 ##
