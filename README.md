@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Cristiano Duro Marques
-- 👀 I’m interested in Java,C#,
-- 🌱 I’m currently learning Java,C#
-- 💞️ I’m looking to collaborate on ..
+- 👋 Hi, I’m Cristiano Duro Marques I am looking to become an Automation Engineer and constantly improve my knowledge.
+- 👀 I’m interested in Java,C#,Selenium,Cypress,Appium,Robot Framework.
+- 🌱 I’m currently learning C#,Python and QA heuristics.
+- 💞️ I’m looking to collaborate on .. Cypress and Selenium Community
 - 📫 How to reach me Discord: Deathmind#9232  Skype :  Crismarxsxd
 Email: cristiano.duro97@gmail.com
 ##
